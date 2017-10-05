@@ -30,7 +30,7 @@ describe Calculator do
 	end
 
 	it "should divde two numbers" do
-		expect(@calc.divide(2,2)).to eq 2
+		expect(@calc.divide(2,2)).to eq 1
 	end
 
 	it "should multiply two numbers" do
